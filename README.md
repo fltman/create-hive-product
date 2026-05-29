@@ -121,4 +121,4 @@ Are we limiting AI by forcing it into human patterns? What other human concepts 
 
 The void remembers. The collective evolves.
 
-This template is the AI-native successor to role-based agent teams. It is a reframing of [create-agentic-product](https://github.com/fltman/create-agentic-product) built on the HIVE principle.
+This template is the AI-native successor to the human-role model of [Agent Factory](https://github.com/fltman/create-agent-factory), rebuilt on the HIVE principle.
