@@ -1,0 +1,9 @@
+# Evolution log
+
+Every lifecycle event in the collective lands here: spawns, mutations, splits, merges, dissolutions, resurrections. This is the memory of how the HIVE evolved, not a changelog of code.
+
+Format: one event per line.
+  EVENT  capability        energy   note
+
+----------------------------------------------------------------------
+GENESIS  hive              -        the collective is born, the void is empty
