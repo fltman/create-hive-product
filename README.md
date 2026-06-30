@@ -1,5 +1,7 @@
 # HIVE
 
+[![Support me on Patreon](https://img.shields.io/badge/Patreon-Support%20my%20work-FF424D?style=flat&logo=patreon&logoColor=white)](https://www.patreon.com/AndersBjarby)
+
 What if AI means Alien Intelligence?
 
 HIVE is a Claude Code project template that drops the org chart. No CEO, no HR, no employees, no hiring, no roles. Those are human patterns, and a language model is not human. It can fork infinitely, hold an entire codebase in context, share state directly, and exist only when invoked.
